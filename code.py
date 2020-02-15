@@ -11,3 +11,5 @@ Created on Sat Feb 15 10:51:45 2020
 #git_show commit_ID
 #si se quiere pasar diregcamente git commit -a-m"message
 print("Muere facebook")
+for i in range(3):
+    print(i)
